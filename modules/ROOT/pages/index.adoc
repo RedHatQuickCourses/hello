@@ -4,3 +4,18 @@
 == Introduction
 
 This is an example quick course demonstrating the usage of Antora for authoring and publishing quick courses.
+
+This example courses consists of 3 chapters (modules) and an appendix section.
+
+The chapters and sections are organized as per the following tree:
+
+* Chapter 1
+** Section 1
+** Section 2
+** Section 3
+* Chapter 2
+** Section 1
+* Chapter 3
+** Section 1
+** Section 2
+* Appendix
